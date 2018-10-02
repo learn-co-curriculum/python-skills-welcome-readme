@@ -16,15 +16,15 @@ Here's what to expect in your 10-week course:
 No prior experience is required. You *do* need to sign up for an account with [GitHub](http://www.github.com/) though. Be sure to bring a computer and an open mind as well!
 
 ### Syllabus
-* Week 1: Intro to Programming for Data Science
-* Week 2: Basic Data Visualization + Collections
-* Week 3: Functions + Conditionals
-* Week 4: Working with APIs + Scraping Data
-* Week 5: Python Project
-* Week 6: Introduction to SQL + Relational Databases
-* Week 7: Python + SQL
-* Week 8: Statistics: Distributions + Variables
-* Week 9: Linear Regression
-* Week 10: Advanced Regression Project
+* Week 1: An Introduction to Data Science & Python
+* Week 2: Exploratory Data Analysis
+* Week 3: Just Enough Stats for Machine Learning
+* Week 4: Regression and Model Evaluation
+* Week 5: Regression in Practice
+* Week 6: Classification
+* Week 7: Unsupervised Learning
+* Week 8: Interacting with APIs to download data
+* Week 9: Accessing data using SQL
+* Week 10: An introduction to Advanced Concepts
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/python_skills_welcome_lab'>Python Skills Welcome Readme</a> on Learn.co and start learning to code for free.</p>
